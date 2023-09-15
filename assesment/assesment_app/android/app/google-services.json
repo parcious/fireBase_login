@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75824404580",
+    "project_id": "assesment-login-aab66",
+    "storage_bucket": "assesment-login-aab66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75824404580:android:67fa5b567a83262e20a771",
+        "android_client_info": {
+          "package_name": "com.example.assesment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYr0uQGGyu8La8D7UMUi3EkeM3V2tYjBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
